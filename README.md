@@ -15,4 +15,4 @@ in urlCrawler.py and then execute it to collect all the information on that webs
 project, correspondent information about http://travel.yunnan.cn/yjgl/index.shtml is recorded into docs.txt already. Afterwards we run 
 main.py and input http://localhost:8080 into a browser and thereby we can see the reply when keywords entered.
 
-This is just a very simple demo of searching engine and there's still too much work needed to make the whole project perfect.
+This is just a very simple demo of searching engine and there's still too much work needed to be done to make the whole project perfect.
